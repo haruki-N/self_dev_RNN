@@ -96,3 +96,4 @@ class TimeRNN:
         self.dh = dh
 
         return dxs
+    
